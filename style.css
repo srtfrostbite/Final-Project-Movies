@@ -1,0 +1,15 @@
+@tailwind base;
+/* Preflight will be injected here */
+@tailwind components;
+@tailwind utilities;
+:root {
+  --Griffy: "Griffy", cursive;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  background-color: #000;
+}
+
+/*# sourceMappingURL=style.css.map */
